@@ -4,8 +4,7 @@
 
 
 # 💫 About Me:
-
-<img align="right" src="https://github.com/cherenkor/cherenkor/blob/main/animated.gif?raw=true" alt="Coding" width="320px"/>
+<img align="right" src="https://github.com/cherenkor/cherenkor/blob/main/animated.gif?raw=true" alt="Coding" width="320px" style="margin-left: 20px;"/>
 
 🔭 I’m currently working on various products as a Software Engineer, Team Lead and Mentor
 <br>
@@ -29,7 +28,6 @@
 # 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sergey-kucherenko) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@kucherenko.web) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/11520840) 
 #
-
 <br />
 
 # 💻 Tech Stack:
