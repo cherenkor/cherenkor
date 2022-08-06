@@ -5,7 +5,7 @@
 
 # 💫 About Me:
 
-<img align="right" src="https://github.com/cherenkor/cherenkor/blob/main/animated.gif?raw=true" alt="Coding" width="400px"/>
+<img align="right" src="https://github.com/cherenkor/cherenkor/blob/main/animated.gif?raw=true" alt="Coding" width="320px"/>
 
 🔭 I’m currently working on various products as a Software Engineer, Team Lead and Mentor
 <br>
