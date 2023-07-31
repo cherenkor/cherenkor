@@ -4,7 +4,7 @@
 
 
 # 💫 About Me:
-<img align="right" src="https://github.com/cherenkor/cherenkor/blob/main/animated.gif?raw=true" alt="Coding" width="330px" style="margin-left: 20px;"/>
+<img align="right" src="https://github.com/serhii-kucherenko/serhii-kucherenko/blob/main/animated.gif?raw=true" alt="Coding" width="330px" style="margin-left: 20px;"/>
 
 🔭 I’m currently working on various products as a Software Engineer, Team Lead and Mentor
 <br>
@@ -35,16 +35,16 @@
 <br />
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=cherenkor&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=cherenkor&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=cherenkor&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=serhii-kucherenko&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=serhii-kucherenko&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=serhii-kucherenko&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=cherenkor&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=serhii-kucherenko&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ### 😂 Mood
-<img src="https://github.com/cherenkor/cherenkor/blob/main/dev_mem.jpeg?raw=true" alt="Random mem" width="512px"/>
+<img src="https://github.com/serhii-kucherenko/serhii-kucherenko/blob/main/dev_mem.jpeg?raw=true" alt="Random mem" width="512px"/>
 
