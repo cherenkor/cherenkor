@@ -6,19 +6,19 @@
 # 💫 About Me:
 <img align="right" src="https://github.com/serhii-kucherenko/serhii-kucherenko/blob/main/animated.gif?raw=true" alt="Coding" width="330px" style="margin-left: 20px;"/>
 
-🔭 I’m currently working on various products as a Software Engineer, Team Lead and Mentor
+🔭 I provide businesses with customized web and mobile solutions, elevating their online presence and performance. My expertise spans various technologies, including TypeScript, Next.js, React.js, Node.js, Postgres, and React-Native. Noteworthy accomplishments include substantial cost savings, improved site performance, and successful project deliveries. I've also played a key role in mentoring and fostering the growth of five individuals from junior positions.
 <br>
 
-👯 I’m looking to collaborate on something Web3 related and challenging
+😎 Full Stack Lead | Engineering Management | Independent Contractor
 <br>
 
-🤝 I’m looking for help with expanding my network on [LinkedIn](https://www.linkedin.com/in/sergey-kucherenko/)
+👯 I’m looking for help with expanding my network on [LinkedIn](https://www.linkedin.com/in/sergey-kucherenko/)
 <br>
 
-🌱 I’m currently learning Web3 and everything related to it
+🌱 I’m currently into Advanced TS, Frontend, Node.js, Algorithms
 <br>
 
-💬 Ask me about: JavaScript, Node.js, React, Web3
+💬 Contact me at:
 <br>
 <br />
 <br />
